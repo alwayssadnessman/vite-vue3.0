@@ -1,5 +1,5 @@
 export type Item = {
   name: string;
-  id: number;
+  id: string;
   children:null | undefined | Item[]
 };

@@ -1,4 +1,9 @@
 $border-default: #000;
+$menu-width:300px;
+html,body,#app{
+  height: 100%;
+  overflow: hidden;
+}
 .all-height{
   height: 100%;
 }
