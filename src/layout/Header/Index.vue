@@ -9,7 +9,7 @@
 </template>
 
 <style scoped lang="scss">
-.header-style{
-    height: 100px;
-}
+    .header-style {
+        height: 100px;
+    }
 </style>
