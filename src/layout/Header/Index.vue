@@ -4,7 +4,9 @@
 
 <template>
     <div class="header-style">
-        <h1>头部</h1>
+        <h1>
+            <slot name="header" :data="'头部'"></slot>
+        </h1>
     </div>
 </template>
 
